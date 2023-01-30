@@ -166,6 +166,7 @@ class Card{
     static final int HEART = 2;
     static final int CLOVER =1;
 
+    
     int kind;
     int number;
 
